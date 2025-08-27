@@ -29,7 +29,7 @@
 3. Control car and follow traffic lights' signals
 
 
-## Video reel
+## Video Reel
 
 https://drive.google.com/file/d/1NC5ccO4WqSio2y3yyoWKWn9R7w3Ms2g9/view?usp=drive_link
 
